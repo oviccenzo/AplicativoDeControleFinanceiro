@@ -171,7 +171,9 @@ O usuário deverá informar a data da movimentação.
 As movimentações cadastradas deverão ser apresentadas em uma lista. Cada item deverá apresentar, no mínimo: descrição; valor; tipo; categoria; data.
 
 ----------------------------------
+
 Supermercado
+
 Alimentação
 21/09/2026
 
@@ -179,7 +181,9 @@ Despesa
 R$ 350,00
 
 ----------------------------------
+
 Salário
+
 Salário
 20/09/2026
 
