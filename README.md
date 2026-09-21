@@ -168,19 +168,25 @@ Regra 6 — Data obrigatória
 O usuário deverá informar a data da movimentação.
 
 ## 10. Visualização das movimentações
-As movimentações cadastradas deverão ser apresentadas em uma lista. Cada item deverá apresentar, no mínimo: descrição; valor; tipo; categoria; data.----------------------------------
+As movimentações cadastradas deverão ser apresentadas em uma lista. Cada item deverá apresentar, no mínimo: descrição; valor; tipo; categoria; data.
+
+----------------------------------
 Supermercado
 Alimentação
 21/09/2026
+
 Despesa
 R$ 350,00
+
 ----------------------------------
 Salário
 Salário
 20/09/2026
+
 Receita
 R$ 2.500,00
 ----------------------------------
+
 A organização visual fica a critério do aluno.
 
 ## 11. Visualização dos detalhes
